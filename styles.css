@@ -95,7 +95,6 @@ button:hover{
     background-color: var(--green);
     cursor: pointer;
     color: var(--off-black);
-    caret-color: var(--off-black);
 }
 
 /* media queries for mobile devices */
